@@ -1,0 +1,7 @@
+C:\Users\Vinh Hoang\source\repos\ClassAndObjectDemo\ClassAndObjectDemo\bin\Debug\ClassAndObjectDemo.exe.config
+C:\Users\Vinh Hoang\source\repos\ClassAndObjectDemo\ClassAndObjectDemo\bin\Debug\ClassAndObjectDemo.exe
+C:\Users\Vinh Hoang\source\repos\ClassAndObjectDemo\ClassAndObjectDemo\bin\Debug\ClassAndObjectDemo.pdb
+C:\Users\Vinh Hoang\source\repos\ClassAndObjectDemo\ClassAndObjectDemo\obj\Debug\ClassAndObjectDemo.csprojAssemblyReference.cache
+C:\Users\Vinh Hoang\source\repos\ClassAndObjectDemo\ClassAndObjectDemo\obj\Debug\ClassAndObjectDemo.csproj.CoreCompileInputs.cache
+C:\Users\Vinh Hoang\source\repos\ClassAndObjectDemo\ClassAndObjectDemo\obj\Debug\ClassAndObjectDemo.exe
+C:\Users\Vinh Hoang\source\repos\ClassAndObjectDemo\ClassAndObjectDemo\obj\Debug\ClassAndObjectDemo.pdb

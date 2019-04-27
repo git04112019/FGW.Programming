@@ -1,0 +1,7 @@
+C:\Users\Vinh Hoang\source\repos\InputOutput\InputOutput\bin\Debug\InputOutput.exe.config
+C:\Users\Vinh Hoang\source\repos\InputOutput\InputOutput\bin\Debug\InputOutput.exe
+C:\Users\Vinh Hoang\source\repos\InputOutput\InputOutput\bin\Debug\InputOutput.pdb
+C:\Users\Vinh Hoang\source\repos\InputOutput\InputOutput\obj\Debug\InputOutput.csprojAssemblyReference.cache
+C:\Users\Vinh Hoang\source\repos\InputOutput\InputOutput\obj\Debug\InputOutput.csproj.CoreCompileInputs.cache
+C:\Users\Vinh Hoang\source\repos\InputOutput\InputOutput\obj\Debug\InputOutput.exe
+C:\Users\Vinh Hoang\source\repos\InputOutput\InputOutput\obj\Debug\InputOutput.pdb

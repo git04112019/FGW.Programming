@@ -1,0 +1,7 @@
+C:\Users\Vinh Hoang\source\repos\DecisionsMaking\DecisionsMaking\bin\Debug\DecisionsMaking.exe.config
+C:\Users\Vinh Hoang\source\repos\DecisionsMaking\DecisionsMaking\bin\Debug\DecisionsMaking.exe
+C:\Users\Vinh Hoang\source\repos\DecisionsMaking\DecisionsMaking\bin\Debug\DecisionsMaking.pdb
+C:\Users\Vinh Hoang\source\repos\DecisionsMaking\DecisionsMaking\obj\Debug\DecisionsMaking.csprojAssemblyReference.cache
+C:\Users\Vinh Hoang\source\repos\DecisionsMaking\DecisionsMaking\obj\Debug\DecisionsMaking.csproj.CoreCompileInputs.cache
+C:\Users\Vinh Hoang\source\repos\DecisionsMaking\DecisionsMaking\obj\Debug\DecisionsMaking.exe
+C:\Users\Vinh Hoang\source\repos\DecisionsMaking\DecisionsMaking\obj\Debug\DecisionsMaking.pdb

@@ -1,7 +1,0 @@
-C:\Users\Vinh Hoang\source\repos\InheritanceDemo\InheritanceDemo\bin\Debug\InheritanceDemo.exe.config
-C:\Users\Vinh Hoang\source\repos\InheritanceDemo\InheritanceDemo\bin\Debug\InheritanceDemo.exe
-C:\Users\Vinh Hoang\source\repos\InheritanceDemo\InheritanceDemo\bin\Debug\InheritanceDemo.pdb
-C:\Users\Vinh Hoang\source\repos\InheritanceDemo\InheritanceDemo\obj\Debug\InheritanceDemo.csprojAssemblyReference.cache
-C:\Users\Vinh Hoang\source\repos\InheritanceDemo\InheritanceDemo\obj\Debug\InheritanceDemo.csproj.CoreCompileInputs.cache
-C:\Users\Vinh Hoang\source\repos\InheritanceDemo\InheritanceDemo\obj\Debug\InheritanceDemo.exe
-C:\Users\Vinh Hoang\source\repos\InheritanceDemo\InheritanceDemo\obj\Debug\InheritanceDemo.pdb
